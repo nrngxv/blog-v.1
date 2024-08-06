@@ -32,11 +32,17 @@ This is the home page. It displays a list of the already uploaded articles.
 - Click on read more to open a detailed view of the post
 - Scroll to see more posts, click on the page button to browse through different pages
 
+**Authentication**
 - Navigation bar contains buttons to sign up and sign in.
 - A user can sign in to post blogs. and Like posts.
-- Sign up to make a new admin account locally.
+- Sign up to make a new admin account locally.  
 
 **Django admin page**
 Navigate to django admin page. Put this in the web address ```http://127.0.0.1:8000/admin``` and this page should appear
 
 To upload another article on the site, click on the article button and an editing interface will appear.
+- Ability to put a title to the post
+- Full fledged text editor to modify your article content
+- Option to make any article a featured article
+- assinging author
+- See likes from other authors
