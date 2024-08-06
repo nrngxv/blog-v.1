@@ -14,7 +14,7 @@ It should say Python 3.11.4
 
 Next, Clone this GitHub respository:
 ```
-git clone https://github.com/nrngxv/polls.git
+git clone https://github.com/nrngxv/blogsite.git
 ```
 
 Next, cd into the directory where the git is cloned, and run this command
