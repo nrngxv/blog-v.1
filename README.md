@@ -28,13 +28,11 @@ This will start the server.
 Next, go to this web address ```http://127.0.0.1:8000/``` and you will see the home page for the application
 
 ## Explanation of the interface
-**This is the home page. It displays a list of the already uploaded articles.**
-![Screenshot 2024-08-07 151258](https://github.com/user-attachments/assets/3d2450eb-7333-4be2-8a5f-4ff7c8dfd131)
+- **This is the home page. It displays a list of the already uploaded articles.**
+- **Click on read more to open a detailed view of the post**
+- You can scroll to see more posts
+![django gif](https://github.com/user-attachments/assets/b8c7c496-fa97-47b8-b217-5fb4b3541567)
 
-**Click on read more to open a detailed view of the post**
-![image](https://github.com/user-attachments/assets/00533118-3096-4134-9a13-5cdf38e39536)
-
-You can scroll to see more posts
 
 **Authentication**
 **Navigation bar contains buttons to sign up and sign in.**
