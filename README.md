@@ -30,19 +30,17 @@ Next, go to this web address ```http://127.0.0.1:8000/``` and you will see the h
 ## Explanation of the interface
 - **This is the home page. It displays a list of the already uploaded articles.**
 - **Click on read more to open a detailed view of the post**
-- You can scroll to see more posts
+- **You can scroll to see more posts**
+
 ![django gif](https://github.com/user-attachments/assets/b8c7c496-fa97-47b8-b217-5fb4b3541567)
 
 
 **Authentication**
 **Navigation bar contains buttons to sign up and sign in.**
-![image](https://github.com/user-attachments/assets/ed6f8a49-087b-4d4d-9fe6-ddd8f1abb0d0)
-
 **A user can sign in to post blogs. and the you will be able to Like posts.**
-![image](https://github.com/user-attachments/assets/29051ec2-d690-418f-97e0-dff0041f26ff)
-
 **Sign up to make a new admin account locally**
-![image](https://github.com/user-attachments/assets/7f24b421-ba41-4f31-ac94-947661bb537f)
+
+![sign in and out](https://github.com/user-attachments/assets/03bbfef3-343c-4f89-8748-0ba593dea823)
 
 
 **Django admin page**
@@ -54,3 +52,7 @@ To upload another article on the site, click on the article button and an editin
 - Option to make any article a featured article
 - assinging author
 - See likes from other authors
+
+![article upload](https://github.com/user-attachments/assets/c119acf9-2086-41de-b366-2595651507a9)
+
+  
