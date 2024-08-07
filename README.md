@@ -29,7 +29,10 @@ Next, go to this web address ```http://127.0.0.1:8000/``` and you will see the h
 
 ## Explanation of the interface
 This is the home page. It displays a list of the already uploaded articles.
+![Screenshot 2024-08-07 151258](https://github.com/user-attachments/assets/3d2450eb-7333-4be2-8a5f-4ff7c8dfd131)
+
 - Click on read more to open a detailed view of the post
+- 
 - Scroll to see more posts, click on the page button to browse through different pages
 
 **Authentication**
