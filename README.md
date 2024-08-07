@@ -54,5 +54,3 @@ To upload another article on the site, click on the article button and an editin
 - See likes from other authors
 
 ![article upload](https://github.com/user-attachments/assets/c119acf9-2086-41de-b366-2595651507a9)
-
-  
