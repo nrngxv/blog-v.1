@@ -28,17 +28,17 @@ This will start the server.
 Next, go to this web address ```http://127.0.0.1:8000/``` and you will see the home page for the application
 
 ## Explanation of the interface
-- **This is the home page. It displays a list of the already uploaded articles.**
-- **Click on read more to open a detailed view of the post**
-- **You can scroll to see more posts**
+- This is the home page. It displays a list of the already uploaded articles
+- Click on read more to open a detailed view of the post
+- You can scroll to see more posts
 
 ![django gif](https://github.com/user-attachments/assets/b8c7c496-fa97-47b8-b217-5fb4b3541567)
 
 
 **Authentication**
-**Navigation bar contains buttons to sign up and sign in.**
-**A user can sign in to post blogs. and the you will be able to Like posts.**
-**Sign up to make a new admin account locally**
+- Navigation bar contains buttons to sign up and sign in
+- A user can sign in to post blogs. and the you will be able to Like posts
+- Sign up to make a new admin account locally**
 
 ![sign in and out](https://github.com/user-attachments/assets/03bbfef3-343c-4f89-8748-0ba593dea823)
 
