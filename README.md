@@ -6,8 +6,6 @@ This project was made to advance my understanding of how Django works. This is a
 - Text editor for blog posting made using [tinyMCE](https://django-tinymce.readthedocs.io/en/latest/installation.html).
 
 ## How this works
--- THE PROGRAM RUNS COMPLETELY LOCALLY --
-
 First check if you are on the latest version of python or not. Run this in your terminal
 ```
 python --version
